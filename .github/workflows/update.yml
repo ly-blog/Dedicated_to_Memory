@@ -1,0 +1,12 @@
+on:
+  push:
+jobs:
+  generate_index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: update index and push
+        env:
+          SSHKEY_CODEBERG: ${{ secrets.SSHKEY_CODEBERG }}
+          REMOTE_CODEBERG: ${{ vars.REMOTE_CODEBERG }}
+        run: wget https://raw.githubusercontent.com/ly-blog/reusable_scripts/refs/heads/main/push_blog_to_all.sh -O- |/bin/sh

@@ -19,7 +19,12 @@ ly @2025-01-11
 ---
 ---
 
-### 關係簡稱
+### 關係
+
+<Name>[<Relationship>][<Sex>]
+
+### Relationship/關係簡稱
+---
 |Abbr|Full|Meaning|
 |:-:|:-:|:-:|
 |FM?|Family-Mother-?|母系家屬 ?年齡|
@@ -32,7 +37,6 @@ ly @2025-01-11
 |D|Descendent|<年齡|
 
 ---
-
 |Abbr|Full|Meaning|
 |:-:|:-:|:-:|
 |SP?|School-Primary-?|小學 ?關係|

@@ -39,6 +39,7 @@
 * [[TBD] 氣功大師[SPP][M].md](blog/2_primary_school/[TBD] 氣功大師[SPP][M].md)
 * [[TBD] 渴睡症[SPP][M].md](blog/2_primary_school/[TBD] 渴睡症[SPP][M].md)
 * [[TBD] 游泳.md](blog/2_primary_school/[TBD] 游泳.md)
+* [[TBD] 王子[SPP][M].md](blog/2_primary_school/[TBD] 王子[SPP][M].md)
 * [[TBD] 畢業營.md](blog/2_primary_school/[TBD] 畢業營.md)
 * [[TBD] 眼影[SPP][F].md](blog/2_primary_school/[TBD] 眼影[SPP][F].md)
 * [[TBD] 第一名[SPP][F].md](blog/2_primary_school/[TBD] 第一名[SPP][F].md)

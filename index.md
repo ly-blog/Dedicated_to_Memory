@@ -20,7 +20,7 @@ ly @2025-01-11
 ---
 
 ### 人物關係
-\<Name\> \[\<Abbr\>\]\[\<Sex\>\]
+(\[To Be Done / Working In Progress\]) \<Name\> \[\<Abbr\>\]\[\<Sex\>\]
 
 #### Abbr/關係簡稱
 ---

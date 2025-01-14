@@ -38,6 +38,7 @@ ly @2025-01-11
 ---
 |Abbr|Full|Meaning|
 |:-:|:-:|:-:|
+|SB?|School-Before-?|學前 ?關係|
 |SP?|School-Primary-?|小學 ?關係|
 |SS?|School-Seconday-?|中學 ?關係|
 |SU?|School-University-?|大學 ?關係|
@@ -45,5 +46,6 @@ ly @2025-01-11
 |?|Meaning|
 |:-:|:-:|
 |T|Teacher|
+|O|Officer|
 |P|Peer|
 |S|Senior|

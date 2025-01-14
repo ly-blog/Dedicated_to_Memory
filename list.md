@@ -1,6 +1,14 @@
 ## List
-### 0_family/
-* [_.md](blog/0_family/_.md)
+### 0_family_father/
+* [Father[FFA][M].md](blog/0_family_father/Father[FFA][M].md)
+* [叉燒[FFA][F].md](blog/0_family_father/叉燒[FFA][F].md)
+* [蠔豉[FFA][M].md](blog/0_family_father/蠔豉[FFA][M].md)
+---
+### 0_family_mother/
+* [Mother[FMA][F].md](blog/0_family_mother/Mother[FMA][F].md)
+* [古裝公主[FMS][F].md](blog/0_family_mother/古裝公主[FMS][F].md)
+* [艷[FMA][F].md](blog/0_family_mother/艷[FMA][F].md)
+* [雪白[FMA][F].md](blog/0_family_mother/雪白[FMA][F].md)
 ---
 ### 1_before_school/
 * [kindergarten_1.md](blog/1_before_school/kindergarten_1.md)

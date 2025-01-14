@@ -19,11 +19,10 @@ ly @2025-01-11
 ---
 ---
 
-### 關係
+### 人物關係
+\<Name\> \[\<Abbr\>\]\[\<Sex\>\]
 
-<Name>[<Relationship>][<Sex>]
-
-### Relationship/關係簡稱
+#### Abbr/關係簡稱
 ---
 |Abbr|Full|Meaning|
 |:-:|:-:|:-:|

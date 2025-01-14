@@ -1,3 +1,5 @@
+### 序
+
 所遇見的人，或者僅僅有一面之緣，某日迴首，卻發現深受影響，並隨時間，身上痕跡越來越清晰。為此，獻給人生交叉處，所碰見的你們。
 
 這篇的強烈個人性質，大抵不會有誰感興趣，正好也祈禱不被看見，看見也別告知，因為重要如生命，不能夠承受被標籤、評論，無論褒貶。如果被熟人發現，真的想找洞鑽進去，恐怕會尷尬致死。
@@ -13,3 +15,32 @@
 ly @2025-01-11
 
 [Main list](list.md)
+
+---
+---
+
+### 關係簡稱
+|Abbr|Full|Meaning|
+|:-:|:-:|:-:|
+|FM?|Family-Mother-?|母系家屬 ?年齡|
+|FF?|Family-Father-?|父系家屬 ?年齡|
+
+|?|Full|Meaning|
+|:-:|:-:|:-:|
+|A|Ancestors|>年齡|
+|S|Sibling|~年齡|
+|D|Descendent|<年齡|
+
+---
+
+|Abbr|Full|Meaning|
+|:-:|:-:|:-:|
+|SP?|School-Primary-?|小學 ?關係|
+|SS?|School-Seconday-?|中學 ?關係|
+|SU?|School-University-?|大學 ?關係|
+
+|?|Meaning|
+|:-:|:-:|
+|T|Teacher|
+|P|Peer|
+|S|Senior|

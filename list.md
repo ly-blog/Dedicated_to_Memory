@@ -1,22 +1,24 @@
 ## List
 ### 0_family_father/
-* [Father[FFA][M].md](blog/0_family_father/Father[FFA][M].md)
-* [叉燒[FFA][F].md](blog/0_family_father/叉燒[FFA][F].md)
-* [蠔豉[FFA][M].md](blog/0_family_father/蠔豉[FFA][M].md)
+* [[TBD] Father[FFA][M].md](blog/0_family_father/[TBD] Father[FFA][M].md)
+* [[TBD] 叉燒[FFA][F].md](blog/0_family_father/[TBD] 叉燒[FFA][F].md)
+* [[TBD] 蠔豉[FFA][M].md](blog/0_family_father/[TBD] 蠔豉[FFA][M].md)
 ---
 ### 0_family_mother/
-* [Mother[FMA][F].md](blog/0_family_mother/Mother[FMA][F].md)
-* [古裝公主[FMS][F].md](blog/0_family_mother/古裝公主[FMS][F].md)
-* [艷[FMA][F].md](blog/0_family_mother/艷[FMA][F].md)
-* [雪白[FMA][F].md](blog/0_family_mother/雪白[FMA][F].md)
+* [[TBD] Mother[FMA][F].md](blog/0_family_mother/[TBD] Mother[FMA][F].md)
+* [[TBD] 古裝公主[FMS][F].md](blog/0_family_mother/[TBD] 古裝公主[FMS][F].md)
+* [[TBD] 艷[FMA][F].md](blog/0_family_mother/[TBD] 艷[FMA][F].md)
+* [[TBD] 雪白[FMA][F].md](blog/0_family_mother/[TBD] 雪白[FMA][F].md)
 ---
 ### 1_before_school/
-* [kindergarten_1.md](blog/1_before_school/kindergarten_1.md)
-* [kindergarten_2.md](blog/1_before_school/kindergarten_2.md)
-* [kindergarten_3.md](blog/1_before_school/kindergarten_3.md)
+* [[TBD] kindergarten_2.md](blog/1_before_school/[TBD] kindergarten_2.md)
+* [[TBD] kindergarten_3.md](blog/1_before_school/[TBD] kindergarten_3.md)
+* [[WIP] kindergarten_1.md](blog/1_before_school/[WIP] kindergarten_1.md)
 ---
 ### 2_primary_school/
-* [_.md](blog/2_primary_school/_.md)
+* [[TBD] Z[SPP][F].md](blog/2_primary_school/[TBD] Z[SPP][F].md)
+* [[TBD] virus[SSP][F].md](blog/2_primary_school/[TBD] virus[SSP][F].md)
+* [[TBD] 敲擊[SSP][M].md](blog/2_primary_school/[TBD] 敲擊[SSP][M].md)
 ---
 ### 3_secondary_school/
 * [_.md](blog/3_secondary_school/_.md)

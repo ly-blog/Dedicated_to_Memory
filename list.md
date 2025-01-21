@@ -24,7 +24,7 @@
 ---
 ### 2_primary_school/
 * [[TBD] Z[SPP][F]](<blog/2_primary_school/[TBD] Z[SPP][F].html>)  ([md](<blog/2_primary_school/[TBD] Z[SPP][F].md>))
-* [[TBD] virus[SSP][F]](<blog/2_primary_school/[TBD] virus[SSP][F].html>)  ([md](<blog/2_primary_school/[TBD] virus[SSP][F].md>))
+* [[TBD] virus[SPP][F]](<blog/2_primary_school/[TBD] virus[SPP][F].html>)  ([md](<blog/2_primary_school/[TBD] virus[SPP][F].md>))
 * [[TBD] 三毛老師[SPT][M]](<blog/2_primary_school/[TBD] 三毛老師[SPT][M].html>)  ([md](<blog/2_primary_school/[TBD] 三毛老師[SPT][M].md>))
 * [[TBD] 三金木板牆[SPP][M]](<blog/2_primary_school/[TBD] 三金木板牆[SPP][M].html>)  ([md](<blog/2_primary_school/[TBD] 三金木板牆[SPP][M].md>))
 * [[TBD] 冬菇老師[SST][F]](<blog/2_primary_school/[TBD] 冬菇老師[SST][F].html>)  ([md](<blog/2_primary_school/[TBD] 冬菇老師[SST][F].md>))

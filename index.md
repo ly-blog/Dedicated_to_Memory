@@ -47,5 +47,6 @@ ly @2025-01-11
 |:-:|:-:|
 |T|Teacher|
 |O|Officer|
-|P|Peer|
 |S|Senior|
+|P|Peer|
+|J|Junior|
